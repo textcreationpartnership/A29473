@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Brief relation of the march of the Imperial Army under the command of Count Lesly, the taking of the town of Esseck, and setting fire to the bridge, and the consternation of the infidels upon that action</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29473</idno>
+            <idno type="STC">Wing B4625</idno>
+            <idno type="STC">ESTC R4262</idno>
+            <idno type="EEBO-CITATION">13678566</idno>
+            <idno type="OCLC">ocm 13678566</idno>
+            <idno type="VID">101272</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29473)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101272)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 836:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Brief relation of the march of the Imperial Army under the command of Count Lesly, the taking of the town of Esseck, and setting fire to the bridge, and the consternation of the infidels upon that action</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Hills and are sold by Ran. Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Licens'd Sept. the 7th; Ro. L'Estrange": p. 2.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Leopold --  I, --  Holy Roman Emperor, 1640-1705.</term>
+               <term>Leslie, Jakob, --  Graf.</term>
+               <term>Holy Roman Empire --  History --  Leopold I, 1658-1705.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:101272:1" rendition="simple:additions"/>
+            <head>A Brief RELATION Of The MARCH Of the <hi>Imperial Army</hi> under the Command of Count <hi>Leſly:</hi> The Taking of the Town of <hi>Eſſeck,</hi> and Set<g ref="char:EOLhyphen"/>ting Fire to the Bridge, And the Conſternation of the <hi>Infidels</hi> upon That Action.</head>
+            <p>COunt <hi>Leſly,</hi> in purſuance of the Orders of his Imperial Majeſty, made a Review of his Army upon the Bor<g ref="char:EOLhyphen"/>ders of <hi>Croatia,</hi> the Twenty ſixth of <hi>July,</hi> at <hi>Geſzki-Sigeth</hi> near the <hi>Drave;</hi> And ſo drew toward <hi>Caniſia,</hi> where he ſet fire to the <hi>Suburbs;</hi> And ſeveral Villages and Ca<g ref="char:EOLhyphen"/>ſtles, for Four Leagues about; And after that, March'd on, to Execute his Deſign upon the Bridge of <hi>Eſſeck:</hi> The Generals of the Militia of <hi>Croatia</hi> being in the mean time, to give the <hi>Turks</hi> a Diverſion on the <hi>Other</hi> ſide; upon Agreement with the <hi>Venetian Generals.</hi> Upon the Third of <hi>Auguſt</hi> he Arriv'd at <hi>Ba<g ref="char:EOLhyphen"/>boſca,</hi> with Ten Regiments of Good Men, and was Joyn'd up<g ref="char:EOLhyphen"/>on the Fourth, by Three thouſand <hi>Croats;</hi> Where he Caus'd his Cannon, Baggage, and Proviſions to be Embarqu'd, that he might March with the more Expedition. He Departed from thence on the Fifth; And got within a League of the <hi>Bridge</hi> of <hi>Eſſeck</hi> upon the Fourteenth, without being taken Notice of, or Any ſort of Alarum: He Diſpos'd his Troups, at the ſame time, for the Attaque that he intended the Morning fol<g ref="char:EOLhyphen"/>lowing, by break of day, which was Executed with Great Bravery, and Succeſs, by Four thouſand Men: Inſomuch that they Routed Seven hundr'd <hi>Janizaries,</hi> that Interpos'd to Hin<g ref="char:EOLhyphen"/>der them in their Enterprize; And having Gain'd the Point, they Charg'd Five hundred of them, that they found in the Marſhes, and not One of them Eſcap'd. They began then to put Fire to the Bridge; And in an Inſtant put Twelve hundred Paces of it into a Flame; The reſt of the Enemy that had fled, and
+<pb n="2" facs="tcp:101272:2" rendition="simple:additions"/>now Gather'd together under Three <hi>Baſſas</hi> to the Number of Three thouſand Men, were ſo ſcatter'd, that they fled toward <hi>Belgrade,</hi> and not Fifty in a Company. General <hi>Leſly,</hi> at the ſame Time, made himſelf Maſter of the Town of <hi>Eſſeck,</hi> and put all to the Sword that they found there: And after the Pilla<g ref="char:EOLhyphen"/>ging of the Place, blew up the Magazine, and the Arcenal with Great Quantities of Proviſion both for the War, and the Mouth, and laid it all in Aſhes.</p>
+            <p>The Conſternation of the People, and the Neighbouring Towns, under the <hi>Ottoman</hi> Power, was ſo Great, that it is not poſſible to Expreſs it. The Town of <hi>Walpo</hi> was likewiſe Ta<g ref="char:EOLhyphen"/>ken and ſack'd: And 'tis Believ'd that the Army is now March<g ref="char:EOLhyphen"/>ing toward the <hi>Five Churches,</hi> ſome Four Leagues from the Famous Town of <hi>Zigeth.</hi> The <hi>Chriſtians</hi> loſt not above Fifty Men in this Great Action; Among which, was the <hi>Sieur Pa<g ref="char:EOLhyphen"/>troſhi, a Captain of Horſe,</hi> who is much Lamented. The Prince of <hi>Diedrichſlein</hi> brought the News of This Great Victory to his <hi>Imperial Majeſty</hi> and Preſented him with <hi>Five Colours</hi> taken from the Enemy.</p>
+            <p>His <hi>Imperial Majeſty</hi> has alſo Advice, that the Duke of <hi>Lorrain</hi> had ſent a Detachment of ſome Thouſands of Men, under the Command of Collonel <hi>Heuſler,</hi> which he Caus'd to Paſs over his New Bridges upon the <hi>Danube,</hi> near <hi>Gran,</hi> to learn how it ſtood with the <hi>Fortreſs</hi> of <hi>Novigrad;</hi> Which they found Quitted by the Garriſon, the Magazines taking fire by Thunder, and Lightning, upon the ſame Day of the Action before <hi>Gran<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and the taking of the Bridge of <hi>Eſſeck.</hi> This Ac<g ref="char:EOLhyphen"/>cident Ruin'd a Great Part of the Town, with the Tower, and made a Great Breach in the Rampards, which they Reſolv'd to Repair, and to Garriſon That Poſt for a Paſſage to the Con<g ref="char:EOLhyphen"/>queſt that they Deſign'd the Reſt of this Campagne.</p>
+            <p>There are Letters that ſpeak Confidently of the taking of <hi>Eſperies,</hi> by General <hi>Scultz;</hi> But the Particulars not being come, we muſt wait for the Confirmation. It is Current however, That General <hi>Scultz</hi> having had Advice of the March of Six hundred <hi>Janizaries</hi> for the ſuccor of this Place, ſent Eight hun<g ref="char:EOLhyphen"/>dred Horſe to Intercept them, Who fell upon them, and gave them ſo Entire a Defeat, that ſcare <hi>Twenty</hi> of them 'ſcap'd, to Carry the News from <hi>Agria,</hi> whence they came.</p>
+            <argument>
+               <p>
+                  <hi>From the</hi> Bruxell's Copy.</p>
+            </argument>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Licens'd <date>
+                  <hi>Sept.</hi> the 7th</date>
+            </p>
+            <closer>
+               <signed>Ro. L'Eſtrange.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>H. Hills,</hi> and are Sold by <hi>Ran. Taylor,</hi> near <hi>Stationers-Hall.</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
